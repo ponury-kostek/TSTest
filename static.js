@@ -1,1 +1,3 @@
-zmiana w fork
+//zmiana w fork
+
+console.log('1');
