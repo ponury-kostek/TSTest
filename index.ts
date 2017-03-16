@@ -9,4 +9,4 @@ class qwe {
 M.f();
 N.f();
 export default qwe;
-zmiana3
+zmiana4
