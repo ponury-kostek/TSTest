@@ -4,3 +4,4 @@ console.log('2');
 zmiana
 asdad
 zmiany nowe
+nowe zmiany
